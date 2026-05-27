@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcync",
+        "uuid": 17382780,
+        "checksum": "ts4yr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
